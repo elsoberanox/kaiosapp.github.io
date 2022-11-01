@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "name": "KAnime",
+  "description": "KAnime",
+  "type": "certified",
+  "launch_path": "/index.html",
+  "cursor": true,
+"fullscreen": "true",
+  "orientation": [ "portrait-primary" ],
+
+  "developer": {
+    "name": "ivan",
+	"url":"https://kaiosmedia.blogspot.com/"
+  },
+  "default_locale": "en-US",
+  "display":"fullscreen",
+  "locales": {
+    "en-US": {
+      "name":"KAnime"
+	}
+  },
+  "icons": {
+    "128": "/icon.png"
+  }
+}
